@@ -1,0 +1,20 @@
+{
+  "name": "juliangut-techtest",
+  "description": "Technical test",
+  "keywords": [
+    "technical",
+    "test"
+  ],
+  "homepage": "https://github.com/juliangut/techtest",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Julián Gutiérrez",
+      "email": "juliangut@gmail.com",
+      "url": "http://juliangut.com"
+    }
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
